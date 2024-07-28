@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href=https://portfolio-master-teal-nu.vercel.app/" target="_blank">soumyajit.tech</a>
+  <a href=https://portfolio-master-teal-nu.vercel.app/" target="_blank">priyanshi.tech</a>
 </h2>
 
 
